@@ -1,5 +1,5 @@
 [versions]
-instruct = "0.100.0"
+instruct = "0.104.0"
 fish = "1.6.8"
 
 [libraries]
