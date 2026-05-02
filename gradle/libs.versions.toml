@@ -1,0 +1,7 @@
+[versions]
+instruct = "0.100.0"
+fish = "1.6.8"
+
+[libraries]
+instruct = { module = "com.charleskorn.kaml:kaml-jvm", version.ref = "instruct" }
+fish = { module = "io.ktor:ktor-client-core", version.ref = "fish" }
