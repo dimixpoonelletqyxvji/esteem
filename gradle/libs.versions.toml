@@ -1,6 +1,6 @@
 [versions]
 instruct = "0.100.0"
-fish = "1.6.8"
+fish = "3.4.3"
 
 [libraries]
 instruct = { module = "com.charleskorn.kaml:kaml-jvm", version.ref = "instruct" }
